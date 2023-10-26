@@ -122,6 +122,9 @@ h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6 {
 	-webkit-overflow-scrolling: touch;
 }
 
+div#biography {
+    overflow: hidden;
+}
 .home {
 	overflow: auto;
 	position: absolute;
